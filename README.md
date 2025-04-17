@@ -45,5 +45,5 @@ The network consists of:
 ---
 
 ### **Team Members**  
-👤 **M. Shehryar Zubair Khan** (22K-4736)  
-👤 **Zehra Jabeen Mirza** (22K-4781)  ( @zehra-jm )  
+👤 **Zehra Jabeen Mirza** (22K-4781)
+👤 **M. Shehryar Zubair Khan** (22K-4736) (@shehryar-zubair)
